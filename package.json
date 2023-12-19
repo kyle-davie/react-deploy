@@ -2,7 +2,7 @@
   "name": "react-final",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://kyle-davie.github.io/react-deploy/",
+  "homepage": "https://kyle-davie.github.io/react-final-project/",
   "type": "module",
   "scripts": {
     "predeploy": "npm run build",
